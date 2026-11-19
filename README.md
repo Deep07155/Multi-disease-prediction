@@ -2,6 +2,7 @@
 ### Minor Project — Aditya Silver Oak University 
 
 ---
+🌐 LIVE lINK: https://multi-disease-prediction-xqy4.onrender.com/
 
 ## 🚀 Quick Start (5 Steps)
 
